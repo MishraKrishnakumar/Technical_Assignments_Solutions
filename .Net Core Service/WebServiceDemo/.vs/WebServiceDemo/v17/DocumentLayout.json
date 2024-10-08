@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Krishnakumar Mishra Documents\\Micron Assignment\\Micron Technical Assignment Solutions\\4. .Net Core Service Assignments\\WebServiceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4900E3-8338-47F9-A708-E7E4C47F0115}|WebServiceDemo.csproj|d:\\krishnakumar mishra documents\\micron assignment\\micron technical assignment solutions\\4. .net core service assignments\\webservicedemo\\webservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4900E3-8338-47F9-A708-E7E4C47F0115}|WebServiceDemo.csproj|solutionrelative:webservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService.asmx.cs",
+              "DocumentMoniker": "D:\\Krishnakumar Mishra Documents\\Micron Assignment\\Micron Technical Assignment Solutions\\4. .Net Core Service Assignments\\WebServiceDemo\\WebService.asmx.cs",
+              "RelativeDocumentMoniker": "WebService.asmx.cs",
+              "ToolTip": "D:\\Krishnakumar Mishra Documents\\Micron Assignment\\Micron Technical Assignment Solutions\\4. .Net Core Service Assignments\\WebServiceDemo\\WebService.asmx.cs",
+              "RelativeToolTip": "WebService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:39:29.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
